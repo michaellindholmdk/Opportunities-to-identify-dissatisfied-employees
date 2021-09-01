@@ -10,6 +10,6 @@ To answer these questions I will combine, clean and analyse data from employees 
 The most important findings from this analysis:
 
 1. For short termed employements, less than a third are dissatisfied when resigning their job. However, more than half of the veteran employees are dissatisfied when resigning.   
-2. Resignation is not age dependent.   
+2. Resignation due to some kind of dissatisfaction is not age dependent.   
 
 Based on the results it is recommended that the stakeholders should focus on identifying opportuntities to improve the job satisfaction for experienced and veteran employees in order to retain useful experience within the institutes.
